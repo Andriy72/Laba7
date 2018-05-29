@@ -1,0 +1,6 @@
+Name,Price,Address,Weight,Quality
+Puskina,122.0,Bread,11.0,true
+Name,Price,Address,Weight,Fat Content
+Bread,140.0,Dairy,5.8,15.0
+Name,Price,Address,Weight,Sugar Content
+Puskina,11.0,Sweet,5.0,12.0
